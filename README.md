@@ -21,3 +21,7 @@ Technologies Used
 HTML: Structure and layout of the page.
 CSS: Styling and responsive design, including section backgrounds and navbar effects.
 JavaScript: Smooth scrolling, animations, and interaction effects.
+
+
+
+
