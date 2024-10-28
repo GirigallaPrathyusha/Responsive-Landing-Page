@@ -18,9 +18,9 @@ Sections
 Technologies Used
 1. HTML: Structure and layout of the page.
  
-2.CSS: Styling and responsive design, including section backgrounds and navbar effects.
+ 2.CSS: Styling and responsive design, including section backgrounds and navbar effects.
 
-3.JavaScript: Smooth scrolling, animations, and interaction effects.
+ 3.JavaScript: Smooth scrolling, animations, and interaction effects.
 
 
 
