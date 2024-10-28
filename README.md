@@ -15,9 +15,9 @@ Sections
 4. Contact: Invitation for visitors to get in touch with the team or individual.
 
 Technologies Used
-HTML: Structure and layout of the page.
-CSS: Styling and responsive design, including section backgrounds and navbar effects.
-JavaScript: Smooth scrolling, animations, and interaction effects.
+1. HTML: Structure and layout of the page.
+2.CSS: Styling and responsive design, including section backgrounds and navbar effects.
+3.JavaScript: Smooth scrolling, animations, and interaction effects.
 
 
 
